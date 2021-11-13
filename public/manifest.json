@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Fiverr pricing",
+  "description": "Fiverr pricing extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Fiverr pricing"
+  },
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  }
+}
