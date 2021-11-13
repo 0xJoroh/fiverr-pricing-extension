@@ -10,7 +10,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Upload to
+### Uploading steps
 Next, we will need to tell Chrome where to find our new extension. You can type this in a new Chrome Tab for opening the extensions menu:
 `chrome://extensions/`
 
