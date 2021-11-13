@@ -4,6 +4,8 @@
 
 run `yarn build` command to build the application, we will need folder called *build*.
 
+
+
 > ### 2 - Upload
 
 Next, we will need to tell Chrome where to find the extension. You can type this in a new Chrome Tab for opening the extensions menu:
