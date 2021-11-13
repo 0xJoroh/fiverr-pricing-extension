@@ -10,7 +10,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Uploading steps
+> **Uploading steps**
+
 Next, we will need to tell Chrome where to find the extension. You can type this in a new Chrome Tab for opening the extensions menu:
 `chrome://extensions/`
 
@@ -31,3 +32,4 @@ let’s take a look at what we had be implemented
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+NOTE: it works with 🇲🇦 Moroccan Dirham for now
