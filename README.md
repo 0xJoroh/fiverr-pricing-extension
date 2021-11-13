@@ -7,7 +7,7 @@ run `yarn install` command to install the application.
 
 > ### Step 2 - Building
 
-run `yarn build` command to build the application, we will need folder called *build*.
+run `yarn build` command to build the application, we will need folder called `build`.
 
 
 
@@ -21,7 +21,7 @@ Next, we will need to tell Chrome where to find the extension. You can type this
 <img src="./src/img/2.png" alt="step2" width="794px"/>
 
 
-You will need to select a project’s /build folder:
+You will need to select `build` folder:
 
 <img src="./src/img/3.png" alt="step3" width="737px"/>
 
