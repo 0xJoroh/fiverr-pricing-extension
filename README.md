@@ -18,10 +18,14 @@ Next, we will need to tell Chrome where to find our new extension. You can type 
 
 <img src="./src/img/2.png" alt="step2" width="794px"/>
 
+
 You will need to select a project’s /build folder:
+
 <img src="./src/img/3.png" alt="step3" width="737px"/>
 
+
 let’s take a look at what we had be implemented
+
 <img src="./src/img/4.png" alt="step4" width="645px"/>
 
 ### `yarn build` fails to minify
