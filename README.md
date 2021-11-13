@@ -1,12 +1,17 @@
 # Getting Started with Fiverr pricing extension
 
-> ### 1 - Build
+> ### Step 1 - Installing
+
+run `yarn install` command to install the application.
+
+
+> ### Step 2 - Building
 
 run `yarn build` command to build the application, we will need folder called *build*.
 
 
 
-> ### 2 - Upload
+> ### Step 3 - Uploading
 
 Next, we will need to tell Chrome where to find the extension. You can type this in a new Chrome Tab for opening the extensions menu:
 `chrome://extensions/`
