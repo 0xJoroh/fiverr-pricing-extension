@@ -1,16 +1,10 @@
 # Getting Started with Fiverr pricing extension
 
-### `yarn build`
+> ### 1 - Build
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+run `yarn build` command to build the application, we will need folder called *build*.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-> **Uploading steps**
+> ### 2 - Upload
 
 Next, we will need to tell Chrome where to find the extension. You can type this in a new Chrome Tab for opening the extensions menu:
 `chrome://extensions/`
@@ -29,7 +23,5 @@ let’s take a look at what we had be implemented
 
 <img src="./src/img/4.png" alt="step4" width="645px"/>
 
-### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 NOTE: it works with 🇲🇦 Moroccan Dirham for now
